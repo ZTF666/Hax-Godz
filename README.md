@@ -15,6 +15,12 @@
 
 ## How does it work :
 
+<p>📣 DEMO :</p>
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7K8oEdo4A-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Install
 
 ```bash
@@ -24,6 +30,10 @@ $ chmod + x masterHaxor.sh
 # launch script
 $ ./masterHaxor.sh
 ```
+
+## DISCLAIMER
+
+<p>📣 THIS IS A DUMMY SCRIPT , IT DOES NOTHING ELSE BUT DISPLAY TEXT ON A TERMINAL. </P>
 
 ## Contact
 

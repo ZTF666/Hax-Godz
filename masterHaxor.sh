@@ -370,7 +370,7 @@ About(){
                          echo -e "$green"
                 sleep 0.01 && echo "  This script turns you into the ultimate H4X0R that you are !"
                 sleep 0.01 && echo "  use it wisely my young  Padawans"
-                sleep 0.01 &&echo "   To say hi , email me here : ZTF666@protonmail.ch"
+                sleep 0.01 && echo "  To say hi , email me here : ZTF666@protonmail.ch"
                 sleep 0.01 && echo "  https://github/ZTF666/Hax-Godz "
 				sleep 0.01 && echo "  https://ztfportfolio.web.app"
                 echo ""
