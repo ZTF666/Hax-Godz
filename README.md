@@ -47,6 +47,7 @@ $ ./masterHaxor.sh
 <div align="center">
 <p><strong><h1>📣 THIS IS A DUMMY SCRIPT , IT DOES NOTHING ELSE BUT DISPLAY TEXT ON A TERMINAL.</h1></strong> </P>
 </div>
+
 ## Contact
 
 ```
