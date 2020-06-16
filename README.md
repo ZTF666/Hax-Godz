@@ -20,7 +20,7 @@
 <div align="center">
 <p>Play it x2</p>
 
-📣 [YOUTUBE](youtube.com/video/7K8oEdo4A-4)
+📣 [YOUTUBE](https://youtube.com/video/7K8oEdo4A-4)
 
 </div>
 
