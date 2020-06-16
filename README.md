@@ -18,8 +18,9 @@
 <p>📣 DEMO :</p>
 
 <div align="center">
+<p>Play it x2</p>
 
-<img src="https://img.youtube.com/vi/7K8oEdo4A-4/maxresdefault.jpg" >
+📣 [YOUTUBE](youtube.com/video/7K8oEdo4A-4)
 
 </div>
 
@@ -32,6 +33,14 @@ $ chmod + x masterHaxor.sh
 # launch script
 $ ./masterHaxor.sh
 ```
+
+## Modifications
+
+<div align="center">
+<p>The script is made to run for 5 mins or less</p>
+<p>To make it faster just remove the sleep calls or change the values !</p>
+
+</div>
 
 ## DISCLAIMER
 
