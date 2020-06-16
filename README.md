@@ -18,7 +18,9 @@
 <p>📣 DEMO :</p>
 
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7K8oEdo4A-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="https://img.youtube.com/vi/7K8oEdo4A-4/maxresdefault.jpg" >
+
 </div>
 
 ## Install
