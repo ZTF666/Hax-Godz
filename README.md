@@ -1,4 +1,5 @@
 # PR0 H4X0R 👨‍💻🕵️‍♀️
+
 <div align="center">
 <p>This script will turn you into the ultimate <strong>H4X0R</strong> , the God of the GODZzZzZ .</p>
 <p>Use it's power wisely ! and don't abuse it too much .</p>
@@ -9,14 +10,10 @@
 <p>This was made using : </p>
 
 <div align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/datasaver-42281.appspot.com/o/index.png?alt=media&token=f7de9dcd-4f15-4225-82bd-e4d7ddf4dbe3"  width='120' height='90' alt="Shell">
+<img src="https://firebasestorage.googleapis.com/v0/b/datasaver-42281.appspot.com/o/index.png?alt=media&token=f7de9dcd-4f15-4225-82bd-e4d7ddf4dbe3"   alt="Shell">
 </div>
 
 ## How does it work :
-
-
-
-
 
 ## Install
 
