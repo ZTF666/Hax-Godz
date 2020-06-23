@@ -18,7 +18,7 @@
 <p>📣 DEMO :</p>
 
 <div align="center">
-<p>Play it x2</p>
+<p>Play it x2 for faster demo</p>
 
 📣 [YOUTUBE](https://youtube.com/video/7K8oEdo4A-4)
 
